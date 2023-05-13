@@ -10,10 +10,13 @@ In the below image is the world-generation screen. The player can use the UI inp
 to create a different world each time based on some specification (the map will not change unless
 "Generate World" is pressed), and assuming the exact same options and seed, the same map will always
 generate, every time.
-<First Image>
+![First image, showing world generation](https://github.com/Matan-Abir/Martial-Heroes-and-Unorthodox-Sects/blob/Master/Image1.jpg?raw=true)
   
 This second image allows the player to select which faction (settlement) he wants to start as a 
 member of. The factions are randomly generated whenever the world is created, and the player can
 select his faction with the green left/right arrows at the top, which will then highlight
 the selected faction on the map, in purple. This is the end of the demo.
-<Second Image>
+![Second image, showing faction selection](https://github.com/Matan-Abir/Martial-Heroes-and-Unorthodox-Sects/blob/Master/Image2.jpg?raw=true)
+
+If anyone reads this and it in any way inspires him to make this game? Go ahead. Just let me know
+first because I'd love to play it!
