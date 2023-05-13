@@ -1,0 +1,13 @@
+{
+    "Nouns": [ "River", "Lake", "Mountain" ],
+    "Adjectives": [ "Holy", "Sun", "Moon", "Mighty" ],
+    "Weapons": ["Sword","Spear","Staff"],
+    "Orthodox": {
+        "Types": [ "Sect","School" ],
+        "Nouns": ["Righteous","Upstanding","Chivalrous"]
+    },
+    "Unorthodox": {
+        "Types": [ "Sect","Cult","Association" ],
+        "Nouns": ["Poison","Killing","Blood"]
+    }
+}
