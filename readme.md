@@ -16,7 +16,7 @@ This second image allows the player to select which faction (settlement) he want
 member of. The factions are randomly generated whenever the world is created, and the player can
 select his faction with the green left/right arrows at the top, which will then highlight
 the selected faction on the map, in purple. This is the end of the demo.
-![Second image, showing faction selection](https://github.com/Matan-Abir/Martial-Heroes-and-Unorthodox-Sects/blob/master/Image1.jpg?raw=true)
+![Second image, showing faction selection](https://github.com/Matan-Abir/Martial-Heroes-and-Unorthodox-Sects/blob/master/Image2.jpg?raw=true)
 
 Here's a nice unused transition to a loading screenthat would've made it into the game had work continued.
 ![Third, nice smooth fade transition into loading screen](https://github.com/Matan-Abir/Martial-Heroes-and-Unorthodox-Sects/blob/master/transition.webm.mp4?raw=true)
